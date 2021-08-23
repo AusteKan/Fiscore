@@ -41,3 +41,19 @@ CRAN: https://cran.r-project.org/web/packages/available_packages_by_name.html#av
 
 Inquiries: info@algorithm379.com
 
+# References
+
+1. Kanapeckaitė A, Beaurivage C, Hancock M & Verschueren E (2020) Fi-score: a novel approach to characterise protein topology and aid in drug discovery studies. J Biomol Struct Dyn, 1–11. 
+
+2. Fauman EB, Rai BK & Huang ES (2011) Structure-based druggability assessment-identifying suitable targets for small molecule therapeutics. Curr Opin Chem Biol 15, 463–468.
+
+3. Schmidtke P & Barril X (2010) Understanding and predicting druggability. A high-throughput method for detection of drug binding sites. J Med Chem 53, 5858–5867.
+
+4. Shin S-M, Choi D-K, Jung K, Bae J, Kim J, Park S, Song K-H & Kim Y-S (2017) Antibody targeting intracellular oncogenic Ras mutants exerts anti-tumour effects after systemic administration. Nat Commun 8, 15090.
+
+5. Norman RA, Ambrosetti F, Bonvin AMJJ, Colwell LJ, Kelm S, Kumar S & Krawczyk K (2020) Computational approaches to therapeutic antibody design: Established methods and emerging trends. Brief Bioinform 21, 1549–1567.
+
+6. Obradovic Z, Peng K, Vucetic S, Radivojac P, Brown CJ & Dunker AK (2003) Predicting Intrinsic Disorder From Amino Acid Sequence. In Proteins: Structure, Function and Genetics pp. 566–572.
+
+7. Weisel M, Proschak E, Kriegl JM & Schneider G (2009) Form follows function: Shape analysis of protein cavities for receptor-based drug design. Proteomics 9, 451–459.
+
