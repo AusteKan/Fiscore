@@ -33,7 +33,7 @@ The package has the following dependencies: `Bio3D`, `plotly`, `ggplot2`, `mclus
 
 Please note that plotly is used to build interactive plots which will appear on the Viewer tab in RStudio.
 
-Version: v0.1.2
+Version: v0.1.3
 
 Github page: https://github.com/Algorithm379/Packages/
 
