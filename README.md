@@ -7,7 +7,7 @@
 
 
 author: Austė Kanapeckaitė
-date: 8/10/2021
+date: 8/28/2021
 
 
 ## 1. Package Overview
@@ -17,9 +17,9 @@ Target evaluation is paramount for rational therapeutics development [2,3]⁠. F
 `Fiscore` package provides customisable options to explore targets of interest as well as interactive plots to assess individual amino acid parameters. Moreover, user-friendly machine learning pipeline for Gaussian Mixture Models (GMM) allows a robust structural analysis. 
 
 
-## 2. Package functions and tutorial
+## 2. Package functions
 
-![**Figure 1**. Schematic representation of package functions and specific analyses. Curved arrow indicates that additional information might be supplied to density plots from the cluster identification function.](Images/Figure_1.jpg)
+![**Figure 1**. Schematic representation of package functions and specific analyses. Curved arrow indicates that additional information might be supplied for  density plots from the cluster identification function.](Images/Figure_1.jpg)
 
 ## 3. Key features
 
@@ -39,7 +39,7 @@ Github page: https://github.com/Algorithm379/Packages/
 
 CRAN: https://cran.r-project.org/web/packages/available_packages_by_name.html#available-packages-F
 
-Inquiries: info@algorithm379.com
+Inquiries: auste.kan [at] algorithm379 [.] com
 
 # References
 
