@@ -1,5 +1,5 @@
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
-![Version: CRAN](https://img.shields.io/cran/v/Fiscore?style=plastic)
+![Version: CRAN](https://img.shields.io/cran/v/Fiscore)
 ![Type](https://img.shields.io/badge/pharma%20-research-brightgreen)
 ![Tests](https://img.shields.io/badge/R--CMD--check%20-Pass-green)
 
