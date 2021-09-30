@@ -2,6 +2,7 @@
 ![Version: CRAN](https://img.shields.io/cran/v/Fiscore)
 ![Type](https://img.shields.io/badge/pharma%20-research-brightgreen)
 ![Tests](https://img.shields.io/badge/R--CMD--check%20-Pass-green)
+![Version](https://img.shields.io/badge/Release-V0.1.3-orange)
 
 # Fiscore Package: Effective protein structural data visualisation and exploration
 
